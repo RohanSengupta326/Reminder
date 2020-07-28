@@ -1,2 +1,2 @@
 # Reminder
-This is a reminder system . 
+This is a reminder system made by using Python . 
